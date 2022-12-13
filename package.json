@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^3.3.4",
+    "nodemon": "^2.0.20"
+  },
+  "name": "hw-1-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brudja/hw-1-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brudja/hw-1-node/issues"
+  },
+  "homepage": "https://github.com/Brudja/hw-1-node#readme",
+  "description": ""
+}
